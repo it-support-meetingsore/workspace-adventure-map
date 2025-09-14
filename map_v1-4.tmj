@@ -6912,7 +6912,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts"
+         "value":"main.js"
         }, 
         {
          "name":"tutorial",
